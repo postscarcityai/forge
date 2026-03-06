@@ -2,7 +2,7 @@
 
 **AI image and video generation platform.** Create visual artifacts with access to all major generation models. Project-centric workflows with characters, scenes, master prompts, and timeline organization.
 
-Part of the [PostScarcity AI](https://github.com/postscarcityai) suite.
+Part of the [PostScarcity AI](https://github.com/postscarcityai) suite of open source repositories.
 
 ---
 
