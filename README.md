@@ -1,4 +1,4 @@
-# Forge
+# Forge &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/postscarcityai/forge/blob/main/LICENSE) [![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)](https://github.com/postscarcityai/forge) [![Next.js](https://img.shields.io/badge/Next.js-15-black.svg)](https://nextjs.org/) [![fal.ai](https://img.shields.io/badge/fal.ai-powered-purple.svg)](https://fal.ai/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/postscarcityai/forge/pulls)
 
 **AI image and video generation platform.** Create visual artifacts with access to all major generation models. Project-centric workflows with characters, scenes, master prompts, and timeline organization.
 
