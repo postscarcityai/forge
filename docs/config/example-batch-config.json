@@ -1,0 +1,27 @@
+{
+  "master_prompt": "N$CFW, editorial, magazine, hyacinthcollage, fashion, hand made collage, golden light particles, ",
+  "save_to_disk": true,
+  "images": [
+    {
+      "concept": "luxury_timepiece",
+      "prompt": "elegant gold watch with leather strap, marble background, soft directional lighting, minimalist composition",
+      "filename": "luxury-watch-campaign"
+    },
+    {
+      "concept": "urban_lifestyle",
+      "prompt": "modern city scene at golden hour, young professional walking with confidence, architectural backdrop, warm ambient lighting"
+    },
+    {
+      "concept": "artisan_craft",
+      "prompt": "hands working with traditional tools, creating handmade objects, workshop environment, natural lighting, focus on craftsmanship"
+    },
+    {
+      "concept": "nature_harmony",
+      "prompt": "serene natural landscape, sustainable living concept, organic textures, earth tones, peaceful atmosphere"
+    },
+    {
+      "concept": "tech_innovation",
+      "prompt": "cutting-edge technology seamlessly integrated into daily life, clean modern aesthetic, subtle blue tones, forward-thinking composition"
+    }
+  ]
+} 

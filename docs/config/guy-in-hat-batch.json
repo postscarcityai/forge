@@ -1,0 +1,10 @@
+{
+  "master_prompt": "N$CFW, editorial, magazine, hyacinthcollage, fashion, hand made collage, golden light particles, ",
+  "save_to_disk": true,
+  "images": [
+    {
+      "concept": "guy_in_hat",
+      "prompt": "stylish man wearing a classic hat, urban portrait, confident pose, editorial lighting, vintage aesthetic"
+    }
+  ]
+} 

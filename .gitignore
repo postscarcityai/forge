@@ -1,0 +1,72 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files
+.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# User-generated content
+/public/images/**
+/public/videos/**
+/public/images/*.jpg
+/public/images/*.jpeg
+/public/images/*.png
+/public/images/*.gif
+/public/images/*.webp
+/public/videos/clips/*.mp4
+/public/videos/clips/*.mov
+/public/images/image-info/*.json
+
+# Brand files (users create their own)
+/docs/brands/**
+!/docs/brands/.gitkeep
+
+# Batch configs
+**/batch-config-*.json
+!**/example-batch-config.json
+
+# Server state
+.forge-state.json
+
+# SQLite database (contains user data)
+forge.db
+forge.db-*
+database.db
+*.db
+*.sqlite
+
+# Cursor config (machine-specific)
+.cursor/mcp.json

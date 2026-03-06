@@ -1,0 +1,8 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+Never try and start a dev environment
+- never check the app with: curl -s http://localhost:3000 | head -5
+- never run `npm run dev`

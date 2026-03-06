@@ -1,0 +1,16 @@
+---
+alwaysApply: true
+---
+
+- Never try and start a dev environment
+- The app runs on port 4900 (not 3000). Always use localhost:4900 for API calls and URLs
+- Never check the app with curl commands
+- Never run `npm run dev`
+- Assume localhost:4900 is already running. Ask the user to restart if needed. Never manage the server yourself
+- Check prompt guides in the docs or call the SQLite DB to get prompting context for image generation
+- Prompts need to be between 400 and 500 tokens, (~350 words)
+- When generating images, do not return excessive descriptions of the images that were generated. 
+-- The images themselves are being shown to the user and we do not need an explanation. 
+-- Return short responses after the images are complete efficient use of bullets
+- when creating a video, always include the script in the prompt. the prompt is the only way to control the video.
+- Don't summarize the chat unless we have as very very long chat. you're doing that too much so just don't do it. 

@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+Allow: /default
+Allow: /archived
+Allow: /completed
+
+Disallow: /*/settings*
+Disallow: /*/hidden*
+Disallow: /api/*
+Disallow: /_next/*
+Disallow: /images/
+Disallow: /videos/

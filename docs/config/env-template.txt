@@ -1,0 +1,15 @@
+# Forge Environment Variables
+# Copy this file to .env.local in the project root
+
+# Required: fal.ai API key for image/video generation
+# Get one at https://fal.ai/dashboard/keys
+FAL_KEY=your_fal_api_key_here
+
+# Optional: Base URL (defaults to http://localhost:4900)
+NEXT_PUBLIC_BASE_URL=http://localhost:4900
+
+# Optional: Site URL for SEO/metadata (defaults to http://localhost:4900)
+NEXT_PUBLIC_SITE_URL=http://localhost:4900
+
+# Optional: Node environment
+NODE_ENV=development
